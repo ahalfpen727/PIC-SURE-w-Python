@@ -1,0 +1,17 @@
+.Rproj.user
+.Rhistory
+.RData
+*.rds
+*.RDS
+*.xpt
+nhanes_scraper.Rproj
+data_files
+data_files_old
+db_backups
+ewas_var_desc_files
+mortality_files
+nhanes_merged_data
+.R.Rout
+*.sh
+xpt/*
+usda_fped/*

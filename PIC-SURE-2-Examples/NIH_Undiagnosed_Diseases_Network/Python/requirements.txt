@@ -1,0 +1,4 @@
+git+https://github.com/hms-dbmi/pic-sure-python-adapter-hpds.git
+git+https://github.com/hms-dbmi/pic-sure-python-client.git 
+pandas==1.0.1
+pprint==0.1
